@@ -1,0 +1,122 @@
+git log
+commit 17f8fb4ae790eb55212c6a33d0128eb9fd6290ef (HEAD -> master, origin/master)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:13:49 2023 +0200
+
+    Add java class
+
+commit 5d49bff6a90ef2c24c6f48022131e808565cf896
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:11:44 2023 +0200
+
+    Initial commit
+
+
+
+
+
+git checkout bug1
+ git log
+commit 041976a4d9fea0a2766c8cd1b875f528a5639606 (HEAD -> bug1, origin/bug1)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:28:46 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit 17f8fb4ae790eb55212c6a33d0128eb9fd6290ef
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:13:49 2023 +0200
+
+    Add java class
+
+commit 5d49bff6a90ef2c24c6f48022131e808565cf896
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:11:44 2023 +0200
+
+    Initial commit
+
+
+
+
+git checkout bug2
+git log
+commit 448f3073a39f5b57a36cd1dded8c832de635486f (HEAD -> bug2, origin/bug2)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:30:12 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 17f8fb4ae790eb55212c6a33d0128eb9fd6290ef
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:13:49 2023 +0200
+
+    Add java class
+
+commit 5d49bff6a90ef2c24c6f48022131e808565cf896
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:11:44 2023 +0200
+
+    Initial commit
+
+
+
+
+git checkout bug3 
+git log
+commit 214a1169e8832e37f8d7569aeeb04bb30c83034f (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:31:39 2023 +0200
+
+     Fix method sumEvenNumbers.
+
+commit 879efb20251bfa36440f5d6263d9ae47e8b82fcd
+Merge: 041976a 448f307
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:34:05 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 448f3073a39f5b57a36cd1dded8c832de635486f (origin/bug2, bug2)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:30:12 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 041976a4d9fea0a2766c8cd1b875f528a5639606 (origin/bug1, bug1)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:28:46 2023 +0200
+
+
+
+git checkout master
+ git log
+commit 214a1169e8832e37f8d7569aeeb04bb30c83034f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:31:39 2023 +0200
+
+     Fix method sumEvenNumbers.
+
+commit 879efb20251bfa36440f5d6263d9ae47e8b82fcd
+Merge: 041976a 448f307
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:34:05 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 448f3073a39f5b57a36cd1dded8c832de635486f (origin/bug2, bug2)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:30:12 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 041976a4d9fea0a2766c8cd1b875f528a5639606 (origin/bug1, bug1)
+Author: angelavelichkovska <angela_velickovska@hotmail.com>
+Date:   Thu Apr 6 13:28:46 2023 +0200
+
+
+
+
+
+
+
+
